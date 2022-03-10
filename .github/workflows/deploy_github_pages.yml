@@ -21,6 +21,6 @@ jobs:
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v2
       env:
-        ACCESS_TOKEN: ${{ secrets.API_TOKEN_TOKEN }}
+        ACCESS_TOKEN: ${{ secrets.API_TOKEN }}
         BASE_BRANCH: main
         BRANCH: deploy_github_pages
