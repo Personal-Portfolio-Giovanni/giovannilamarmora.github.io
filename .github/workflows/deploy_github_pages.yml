@@ -1,0 +1,26 @@
+name: Deploy to GitHub Pages
+
+on:
+  push: 
+    branches:   
+      - deploy_github_pages
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
+      with:
+        persist-credentials: false
+    - name: Use Node.js 16.13.2
+      uses: actions/setup-node@v1
+      with:
+        node-version: '16.13.2'
+
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@releases/v2
+      env:
+        ACCESS_TOKEN: ${{ secrets.API_TOKEN_TOKEN }}
+        BASE_BRANCH: main
+        BRANCH: deploy_github_pages
