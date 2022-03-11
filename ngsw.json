@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1647007588018,
+  "timestamp": 1647027739901,
   "index": "https://giovannilamarmoraproject.github.io/Portfolio/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://giovannilamarmoraproject.github.io/Portfolio/favicon.ico",
         "https://giovannilamarmoraproject.github.io/Portfolio/index.html",
-        "https://giovannilamarmoraproject.github.io/Portfolio/main.a4b6b8fa0d8f648a.js",
+        "https://giovannilamarmoraproject.github.io/Portfolio/main.cc4ccff2b25b2605.js",
         "https://giovannilamarmoraproject.github.io/Portfolio/manifest.webmanifest",
         "https://giovannilamarmoraproject.github.io/Portfolio/polyfills.0f30d7a22e855018.js",
         "https://giovannilamarmoraproject.github.io/Portfolio/runtime.d20979dfc118bc18.js",
@@ -61,8 +61,8 @@
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/social/linkedin.png": "de58e9dffd9c6ad2d98fcedde9995cc920ae7590",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/wallpaper.jpg": "c86cef554cf45108b1b120145af39e2b4ff6b2d8",
     "https://giovannilamarmoraproject.github.io/Portfolio/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://giovannilamarmoraproject.github.io/Portfolio/index.html": "8afc72b50a55827c78466aabd714dab193e2bb86",
-    "https://giovannilamarmoraproject.github.io/Portfolio/main.a4b6b8fa0d8f648a.js": "7a7a06ad0fc43599d56f8661a266bdd793204f7b",
+    "https://giovannilamarmoraproject.github.io/Portfolio/index.html": "7e35f963f54363da43e36d5e484f4281e910863f",
+    "https://giovannilamarmoraproject.github.io/Portfolio/main.cc4ccff2b25b2605.js": "b1ec50a43d2bb2d88949aa42a50d89f8c82d5fa0",
     "https://giovannilamarmoraproject.github.io/Portfolio/manifest.webmanifest": "b177bc89f8bee8391da3a017c14fad493e052d10",
     "https://giovannilamarmoraproject.github.io/Portfolio/polyfills.0f30d7a22e855018.js": "122dc62a258bc71c902d9a2f4ba034a356f8a048",
     "https://giovannilamarmoraproject.github.io/Portfolio/runtime.d20979dfc118bc18.js": "9733ecb0558e964caab7af4f4ecb5cd4f12d4f8d",
