@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1647886495815,
+  "timestamp": 1647982480291,
   "index": "https://giovannilamarmoraproject.github.io/Portfolio/index.html",
   "assetGroups": [
     {
@@ -51,8 +51,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/en.json": "86615b63eb78623bebb04c9302f9f1a96d4fbdef",
-    "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/it.json": "416c03d4622d9b2752c3c0ce50bcaa10690a6f04",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/en.json": "5baf70f1eabfe1918df35cb85f4471cd725d0cfb",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/it.json": "0fca413956df31fe90025ddd72ac6667447087b6",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-128x128.png": "2c43322efd67f5f92b46c36cb0c3977d0befe98b",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-144x144.png": "acfaeea563e80cd9c0d5850b8184853d4e8894a6",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-152x152.png": "1bae647305919563e75954bb2fae58e3219a9341",
@@ -68,7 +68,7 @@
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/wallpaper.jpg": "c86cef554cf45108b1b120145af39e2b4ff6b2d8",
     "https://giovannilamarmoraproject.github.io/Portfolio/favicon.ico": "f24e63053bec46e9f01c87787c3e970b93cab9de",
     "https://giovannilamarmoraproject.github.io/Portfolio/index.html": "2a683b05083860591dd27ea4224efd2e4b10176f",
-    "https://giovannilamarmoraproject.github.io/Portfolio/main.js": "a680fcfa96d7e234427969cc80ca8b2a7e587dfe",
+    "https://giovannilamarmoraproject.github.io/Portfolio/main.js": "23e179353a2482a36c49d5950c8fb14f96f2107d",
     "https://giovannilamarmoraproject.github.io/Portfolio/manifest.webmanifest": "9701246b9798e54e7f3073305ca6cfb720f87a8d",
     "https://giovannilamarmoraproject.github.io/Portfolio/polyfills.js": "122dc62a258bc71c902d9a2f4ba034a356f8a048",
     "https://giovannilamarmoraproject.github.io/Portfolio/runtime.js": "9733ecb0558e964caab7af4f4ecb5cd4f12d4f8d",
