@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1650300600433,
+  "timestamp": 1652627263775,
   "index": "https://giovannilamarmoraproject.github.io/Portfolio/index.html",
   "assetGroups": [
     {
@@ -68,7 +68,7 @@
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/wallpaper.jpg": "c86cef554cf45108b1b120145af39e2b4ff6b2d8",
     "https://giovannilamarmoraproject.github.io/Portfolio/favicon.ico": "f24e63053bec46e9f01c87787c3e970b93cab9de",
     "https://giovannilamarmoraproject.github.io/Portfolio/index.html": "548571ce9135eccabb17417a4d571900ec90873f",
-    "https://giovannilamarmoraproject.github.io/Portfolio/main.js": "e579bb49d8bb825f37c95b082bef1a273804fdb4",
+    "https://giovannilamarmoraproject.github.io/Portfolio/main.js": "ed384f7bf0acb99c9505608bed771656d90d259f",
     "https://giovannilamarmoraproject.github.io/Portfolio/manifest.webmanifest": "9701246b9798e54e7f3073305ca6cfb720f87a8d",
     "https://giovannilamarmoraproject.github.io/Portfolio/polyfills.js": "122dc62a258bc71c902d9a2f4ba034a356f8a048",
     "https://giovannilamarmoraproject.github.io/Portfolio/runtime.js": "9733ecb0558e964caab7af4f4ecb5cd4f12d4f8d",
