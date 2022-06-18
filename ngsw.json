@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1655487432343,
+  "timestamp": 1655551453812,
   "index": "https://giovannilamarmoraproject.github.io/Portfolio/index.html",
   "assetGroups": [
     {
@@ -30,6 +30,9 @@
         "ignoreVary": true
       },
       "urls": [
+        "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/animate-on-view.js",
+        "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/particle-animation/script.js",
+        "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/particle-animation/style.css",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/reveal-up.js",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/sliding-animations.css",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/en.json",
@@ -65,7 +68,10 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/reveal-up.js": "073309f35bacfcac3d0f57ac5d33cf51d3f59555",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/animate-on-view.js": "53e628f79cc498e3d283d34fda35191433f2614e",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/particle-animation/script.js": "d9e44755e573068effc520d3e790e78f3199a830",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/particle-animation/style.css": "a3354906cb692b03562f2bfc5d14aabf2515da31",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/reveal-up.js": "39adf4807519d04296597ad599d7056a1f19fa43",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/sliding-animations.css": "d8e359cd39351c934a09b2606dd8cd2eac35385b",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/en.json": "62f0febfd808c3a4f073ead2c55e4b02970695a5",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/it.json": "c8e57b9046786f27d929430c8726fd520753bffc",
@@ -94,13 +100,13 @@
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/social/linkedin.png": "de58e9dffd9c6ad2d98fcedde9995cc920ae7590",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/wallpaper.jpg": "c86cef554cf45108b1b120145af39e2b4ff6b2d8",
     "https://giovannilamarmoraproject.github.io/Portfolio/favicon.ico": "f24e63053bec46e9f01c87787c3e970b93cab9de",
-    "https://giovannilamarmoraproject.github.io/Portfolio/index.html": "e8cfb7c943d9895f649c24dc5fd612c08bd0fc87",
-    "https://giovannilamarmoraproject.github.io/Portfolio/main.js": "32f0da82306f69f77fb281857912e42362b0cfab",
+    "https://giovannilamarmoraproject.github.io/Portfolio/index.html": "3b4b61ad77944eec9d799b7a1e31c69cbeb97afd",
+    "https://giovannilamarmoraproject.github.io/Portfolio/main.js": "3cde79c41e0908bedba0f90cea52d7a0267751a7",
     "https://giovannilamarmoraproject.github.io/Portfolio/manifest.webmanifest": "9701246b9798e54e7f3073305ca6cfb720f87a8d",
     "https://giovannilamarmoraproject.github.io/Portfolio/polyfills.js": "4ecdf37ea662c5480353f93614ed52e402fd3ef4",
     "https://giovannilamarmoraproject.github.io/Portfolio/runtime.js": "faeb06d4b2d8df46ea70092477f7069451a0e9c6",
-    "https://giovannilamarmoraproject.github.io/Portfolio/scripts.js": "6d5370ca9230ef5f4cea8a9e164a7ba4af491c36",
-    "https://giovannilamarmoraproject.github.io/Portfolio/styles.css": "b73bddcda9ae937a1c8fd330500bb4de9a089718",
+    "https://giovannilamarmoraproject.github.io/Portfolio/scripts.js": "6b3f7e1f226dbcfc4008b8e9e665400fa49c5da3",
+    "https://giovannilamarmoraproject.github.io/Portfolio/styles.css": "b09ef804878a97d0850358ad4097ee1221b4ff67",
     "https://giovannilamarmoraproject.github.io/Portfolio/wallpaper.jpg": "c86cef554cf45108b1b120145af39e2b4ff6b2d8"
   },
   "navigationUrls": [
