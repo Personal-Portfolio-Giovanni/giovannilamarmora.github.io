@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1658678275086,
+  "timestamp": 1660316450974,
   "index": "https://giovannilamarmoraproject.github.io/Portfolio/index.html",
   "assetGroups": [
     {
@@ -30,11 +30,11 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/animate-on-view.js",
+        "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/inView-Start-Animations.ts",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/particle-animation/script.js",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/particle-animation/style.css",
-        "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/reveal-up.js",
-        "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/reveal_up.ts",
+        "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/reveal-up/reveal-up.js",
+        "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/reveal-up/reveal_up.ts",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/sliding-animations.css",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/en.json",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/it.json",
@@ -57,6 +57,7 @@
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/Wix.png",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/html5.jpg",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/mysql.png",
+        "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/logo.svg",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/social/facebook.png",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/social/git.png",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/social/ig.png",
@@ -69,12 +70,12 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/animate-on-view.js": "53e628f79cc498e3d283d34fda35191433f2614e",
-    "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/particle-animation/script.js": "d9e44755e573068effc520d3e790e78f3199a830",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/inView-Start-Animations.ts": "05ea3f5114460f0e255af239c378afdb27c36894",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/particle-animation/script.js": "76b00a996fbfecdc7c26206c9bbb0b77c3e31eac",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/particle-animation/style.css": "a3354906cb692b03562f2bfc5d14aabf2515da31",
-    "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/reveal-up.js": "43aa60a6fed5f45b926d521c10632987db7f24e7",
-    "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/reveal_up.ts": "7bdf3f24ef964c3d5257cd677010293448611415",
-    "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/sliding-animations.css": "d8e359cd39351c934a09b2606dd8cd2eac35385b",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/reveal-up/reveal-up.js": "43aa60a6fed5f45b926d521c10632987db7f24e7",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/reveal-up/reveal_up.ts": "8ccd6a16d694ca5c93c9d6e181c3c76183aa789e",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/sliding-animations.css": "86aa337c38321fa2cf3cd2e600e13898b02bf722",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/en.json": "62f0febfd808c3a4f073ead2c55e4b02970695a5",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/it.json": "c8e57b9046786f27d929430c8726fd520753bffc",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-128x128.png": "2c43322efd67f5f92b46c36cb0c3977d0befe98b",
@@ -96,6 +97,7 @@
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/Wix.png": "97739ff36b8bb8b23b2c19ebc5b2f502c208f4af",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/html5.jpg": "89bf38ab644c0802c7e54c8b4a403ab4a40a0b2c",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/mysql.png": "e6913fd8817e48bf173a861ea2b777dd68d61d2f",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/logo.svg": "ec7473f611c957076397dffb1e3d4df067c45fa0",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/social/facebook.png": "fe88735183141d710724f41b22627f86fbc89d62",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/social/git.png": "db498ef894dcffccb5e3eec201807adb5cfb1829",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/social/ig.png": "5624e13cf41992167e9248c07cded196dced586d",
@@ -103,12 +105,12 @@
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/wallpaper.jpg": "c86cef554cf45108b1b120145af39e2b4ff6b2d8",
     "https://giovannilamarmoraproject.github.io/Portfolio/favicon.ico": "f24e63053bec46e9f01c87787c3e970b93cab9de",
     "https://giovannilamarmoraproject.github.io/Portfolio/index.html": "3b4b61ad77944eec9d799b7a1e31c69cbeb97afd",
-    "https://giovannilamarmoraproject.github.io/Portfolio/main.js": "c6f22f26ceefb3f09caeff90bcda169bbd67af79",
+    "https://giovannilamarmoraproject.github.io/Portfolio/main.js": "2666aacefecb03fc910ef1a470a7acd39852b33d",
     "https://giovannilamarmoraproject.github.io/Portfolio/manifest.webmanifest": "9701246b9798e54e7f3073305ca6cfb720f87a8d",
     "https://giovannilamarmoraproject.github.io/Portfolio/polyfills.js": "4ecdf37ea662c5480353f93614ed52e402fd3ef4",
     "https://giovannilamarmoraproject.github.io/Portfolio/runtime.js": "faeb06d4b2d8df46ea70092477f7069451a0e9c6",
-    "https://giovannilamarmoraproject.github.io/Portfolio/scripts.js": "e11d0f2c4b8230af843c33a287218a2965f772f1",
-    "https://giovannilamarmoraproject.github.io/Portfolio/styles.css": "b09ef804878a97d0850358ad4097ee1221b4ff67",
+    "https://giovannilamarmoraproject.github.io/Portfolio/scripts.js": "cf200131b559fe2ff354e53c86593f739db12144",
+    "https://giovannilamarmoraproject.github.io/Portfolio/styles.css": "f7353d7bdcbcb152a34911c0630a577d55d9535e",
     "https://giovannilamarmoraproject.github.io/Portfolio/wallpaper.jpg": "c86cef554cf45108b1b120145af39e2b4ff6b2d8"
   },
   "navigationUrls": [
