@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1662386523588,
+  "timestamp": 1664035770475,
   "index": "https://giovannilamarmoraproject.github.io/Portfolio/index.html",
   "assetGroups": [
     {
@@ -46,6 +46,7 @@
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-512x512.png",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-72x72.png",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-96x96.png",
+        "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/Profile.jpg",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/Angular.png",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/BristolCollege.jpg",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/CEH.png",
@@ -76,8 +77,8 @@
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/reveal-up/reveal-up.js": "03ef78e121bc16153abad937fef8d02798941dce",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/reveal-up/reveal_up.ts": "bbf90cd95563e3740ee301e255fa73a2a0005364",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/sliding-animations.css": "b5b8f7802d7811dd8ded036d140ba709fbbb0084",
-    "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/en.json": "62f0febfd808c3a4f073ead2c55e4b02970695a5",
-    "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/it.json": "c8e57b9046786f27d929430c8726fd520753bffc",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/en.json": "0f30380e47c0579111ef2852a9e8fa499b4c59a8",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/it.json": "91c490f1ac2074760af8254f09eda523af5181e0",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-128x128.png": "2c43322efd67f5f92b46c36cb0c3977d0befe98b",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-144x144.png": "acfaeea563e80cd9c0d5850b8184853d4e8894a6",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-152x152.png": "1bae647305919563e75954bb2fae58e3219a9341",
@@ -86,6 +87,7 @@
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-512x512.png": "3a37add25c34afef7a66c9227aa407fe1dfacf01",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-72x72.png": "dbac6227f7895d94529440ae799af5d61a5c9c43",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-96x96.png": "ccec6caa32fb9bc49ca80bd58b9c4a07f1523bf8",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/Profile.jpg": "c4532a44c81f550ca94dee184f272a1cd1c7e968",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/Angular.png": "d3ba2d13697716a71fc469cfae801e13f80ca04b",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/BristolCollege.jpg": "0f451553a1c8480c2563280db0315a2eb985260f",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/CEH.png": "308970fe63999f532a29a98ef1eee01d7cbe70d6",
@@ -105,7 +107,7 @@
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/wallpaper.jpg": "c86cef554cf45108b1b120145af39e2b4ff6b2d8",
     "https://giovannilamarmoraproject.github.io/Portfolio/favicon.ico": "f24e63053bec46e9f01c87787c3e970b93cab9de",
     "https://giovannilamarmoraproject.github.io/Portfolio/index.html": "3b4b61ad77944eec9d799b7a1e31c69cbeb97afd",
-    "https://giovannilamarmoraproject.github.io/Portfolio/main.js": "74316e8fd59bbac3c18835fe76f47420d82279cd",
+    "https://giovannilamarmoraproject.github.io/Portfolio/main.js": "691db3b3d760e350f72369016216949a8109a946",
     "https://giovannilamarmoraproject.github.io/Portfolio/manifest.webmanifest": "9701246b9798e54e7f3073305ca6cfb720f87a8d",
     "https://giovannilamarmoraproject.github.io/Portfolio/polyfills.js": "4ecdf37ea662c5480353f93614ed52e402fd3ef4",
     "https://giovannilamarmoraproject.github.io/Portfolio/runtime.js": "faeb06d4b2d8df46ea70092477f7069451a0e9c6",
