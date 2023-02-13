@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1669383268193,
+  "timestamp": 1676304756326,
   "index": "https://giovannilamarmoraproject.github.io/Portfolio/index.html",
   "assetGroups": [
     {
@@ -30,6 +30,8 @@
         "ignoreVary": true
       },
       "urls": [
+        "https://giovannilamarmoraproject.github.io/Portfolio/English.png",
+        "https://giovannilamarmoraproject.github.io/Portfolio/Italy.png",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/inView-Start-Animations.ts",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/particle-animation/script.js",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/particle-animation/style.css",
@@ -58,6 +60,9 @@
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/Wix.png",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/html5.jpg",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/mysql.png",
+        "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/languages/English.png",
+        "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/languages/Italy.png",
+        "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/languages/spagna.jpg",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/logo.svg",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/project/GitHub-Alternatives.jpg",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/project/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg",
@@ -73,6 +78,7 @@
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/template/email-template.json",
         "https://giovannilamarmoraproject.github.io/Portfolio/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg",
         "https://giovannilamarmoraproject.github.io/Portfolio/personal-project.jpg",
+        "https://giovannilamarmoraproject.github.io/Portfolio/spagna.jpg",
         "https://giovannilamarmoraproject.github.io/Portfolio/wallpaper.jpg"
       ],
       "patterns": []
@@ -80,14 +86,16 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "https://giovannilamarmoraproject.github.io/Portfolio/English.png": "f4ec33f9ed3948a1e6dbb8a95ede391ecfd7931e",
+    "https://giovannilamarmoraproject.github.io/Portfolio/Italy.png": "6bce85fff26b38fe71c9862a60c14f4055aff48b",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/inView-Start-Animations.ts": "c8b6e94291909191257a545d6ba478e10b8c0845",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/particle-animation/script.js": "76b00a996fbfecdc7c26206c9bbb0b77c3e31eac",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/particle-animation/style.css": "a3354906cb692b03562f2bfc5d14aabf2515da31",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/reveal-up/reveal-up.js": "03ef78e121bc16153abad937fef8d02798941dce",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/reveal-up/reveal_up.ts": "bbf90cd95563e3740ee301e255fa73a2a0005364",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/animation/sliding-animations.css": "b5b8f7802d7811dd8ded036d140ba709fbbb0084",
-    "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/en.json": "1e4884578b393a15514876e821bf8009b454bf08",
-    "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/it.json": "0ba2fffdc197bbb6f492204c4624008d3f12b198",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/en.json": "1e0bb2aa25231d04e0a3f6f309b2b19d5cb2883e",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/i18n/it.json": "0247828d74aef18d08a99b848de314f5bb9feaff",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-128x128.png": "2c43322efd67f5f92b46c36cb0c3977d0befe98b",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-144x144.png": "acfaeea563e80cd9c0d5850b8184853d4e8894a6",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-152x152.png": "1bae647305919563e75954bb2fae58e3219a9341",
@@ -108,6 +116,9 @@
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/Wix.png": "97739ff36b8bb8b23b2c19ebc5b2f502c208f4af",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/html5.jpg": "89bf38ab644c0802c7e54c8b4a403ab4a40a0b2c",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/mysql.png": "e6913fd8817e48bf173a861ea2b777dd68d61d2f",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/languages/English.png": "f4ec33f9ed3948a1e6dbb8a95ede391ecfd7931e",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/languages/Italy.png": "6bce85fff26b38fe71c9862a60c14f4055aff48b",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/languages/spagna.jpg": "85d9734bf73bc6b4e9be979a79a097ab73fa01de",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/logo.svg": "ec7473f611c957076397dffb1e3d4df067c45fa0",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/project/GitHub-Alternatives.jpg": "61476b8946d8e292f7456daa50be7f54c2ed5215",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/project/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg": "29275461b82629c2f15297c5bbab07063851c1ee",
@@ -124,12 +135,13 @@
     "https://giovannilamarmoraproject.github.io/Portfolio/favicon.ico": "f24e63053bec46e9f01c87787c3e970b93cab9de",
     "https://giovannilamarmoraproject.github.io/Portfolio/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg": "29275461b82629c2f15297c5bbab07063851c1ee",
     "https://giovannilamarmoraproject.github.io/Portfolio/index.html": "3b4b61ad77944eec9d799b7a1e31c69cbeb97afd",
-    "https://giovannilamarmoraproject.github.io/Portfolio/main.js": "55fa18b3f8c88cd5904ae8f6217130f88949e677",
+    "https://giovannilamarmoraproject.github.io/Portfolio/main.js": "77018e2048b9415882c793c8567657bde9b56e11",
     "https://giovannilamarmoraproject.github.io/Portfolio/manifest.webmanifest": "9701246b9798e54e7f3073305ca6cfb720f87a8d",
     "https://giovannilamarmoraproject.github.io/Portfolio/personal-project.jpg": "b7abad9ea8ea7c8ed22c2951fc0f68fc7f4c76d1",
     "https://giovannilamarmoraproject.github.io/Portfolio/polyfills.js": "4ecdf37ea662c5480353f93614ed52e402fd3ef4",
     "https://giovannilamarmoraproject.github.io/Portfolio/runtime.js": "faeb06d4b2d8df46ea70092477f7069451a0e9c6",
     "https://giovannilamarmoraproject.github.io/Portfolio/scripts.js": "471452a591d76339b4ed4cf63fd710fe2b84a299",
+    "https://giovannilamarmoraproject.github.io/Portfolio/spagna.jpg": "85d9734bf73bc6b4e9be979a79a097ab73fa01de",
     "https://giovannilamarmoraproject.github.io/Portfolio/styles.css": "f617479deb292fcccfef1af6814dcb845b752411",
     "https://giovannilamarmoraproject.github.io/Portfolio/wallpaper.jpg": "c86cef554cf45108b1b120145af39e2b4ff6b2d8"
   },
