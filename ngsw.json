@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1676304756326,
+  "timestamp": 1676661605583,
   "index": "https://giovannilamarmoraproject.github.io/Portfolio/index.html",
   "assetGroups": [
     {
@@ -135,7 +135,7 @@
     "https://giovannilamarmoraproject.github.io/Portfolio/favicon.ico": "f24e63053bec46e9f01c87787c3e970b93cab9de",
     "https://giovannilamarmoraproject.github.io/Portfolio/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg": "29275461b82629c2f15297c5bbab07063851c1ee",
     "https://giovannilamarmoraproject.github.io/Portfolio/index.html": "3b4b61ad77944eec9d799b7a1e31c69cbeb97afd",
-    "https://giovannilamarmoraproject.github.io/Portfolio/main.js": "77018e2048b9415882c793c8567657bde9b56e11",
+    "https://giovannilamarmoraproject.github.io/Portfolio/main.js": "e13de077a7dd875816cfcec378cd7780b0cf73a0",
     "https://giovannilamarmoraproject.github.io/Portfolio/manifest.webmanifest": "9701246b9798e54e7f3073305ca6cfb720f87a8d",
     "https://giovannilamarmoraproject.github.io/Portfolio/personal-project.jpg": "b7abad9ea8ea7c8ed22c2951fc0f68fc7f4c76d1",
     "https://giovannilamarmoraproject.github.io/Portfolio/polyfills.js": "4ecdf37ea662c5480353f93614ed52e402fd3ef4",
