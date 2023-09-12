@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1694018534303,
+  "timestamp": 1694533735782,
   "index": "https://giovannilamarmoraproject.github.io/Portfolio/index.html",
   "assetGroups": [
     {
@@ -48,7 +48,8 @@
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-512x512.png",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-72x72.png",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-96x96.png",
-        "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/Profile.jpg",
+        "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/Profile.jpeg",
+        "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/Profile_old.jpg",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/Angular.png",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/BristolCollege.jpg",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/CEH.png",
@@ -104,7 +105,8 @@
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-512x512.png": "3a37add25c34afef7a66c9227aa407fe1dfacf01",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-72x72.png": "dbac6227f7895d94529440ae799af5d61a5c9c43",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/icons/icon-96x96.png": "ccec6caa32fb9bc49ca80bd58b9c4a07f1523bf8",
-    "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/Profile.jpg": "c4532a44c81f550ca94dee184f272a1cd1c7e968",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/Profile.jpeg": "dc8d02b5300513f5d649f456316cd98b55c7dd39",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/Profile_old.jpg": "c4532a44c81f550ca94dee184f272a1cd1c7e968",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/Angular.png": "d3ba2d13697716a71fc469cfae801e13f80ca04b",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/BristolCollege.jpg": "0f451553a1c8480c2563280db0315a2eb985260f",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/develop/CEH.png": "308970fe63999f532a29a98ef1eee01d7cbe70d6",
@@ -135,7 +137,7 @@
     "https://giovannilamarmoraproject.github.io/Portfolio/favicon.ico": "f24e63053bec46e9f01c87787c3e970b93cab9de",
     "https://giovannilamarmoraproject.github.io/Portfolio/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg": "29275461b82629c2f15297c5bbab07063851c1ee",
     "https://giovannilamarmoraproject.github.io/Portfolio/index.html": "ee7bfa3c7f28e97e273477b3bc652f36a84c7a2f",
-    "https://giovannilamarmoraproject.github.io/Portfolio/main.js": "0e45cbd122838ca1fa8ccb2a705013b0c726b738",
+    "https://giovannilamarmoraproject.github.io/Portfolio/main.js": "55d3713338d790120886a66def199a8c71fd3717",
     "https://giovannilamarmoraproject.github.io/Portfolio/manifest.webmanifest": "9701246b9798e54e7f3073305ca6cfb720f87a8d",
     "https://giovannilamarmoraproject.github.io/Portfolio/personal-project.jpg": "b7abad9ea8ea7c8ed22c2951fc0f68fc7f4c76d1",
     "https://giovannilamarmoraproject.github.io/Portfolio/polyfills.js": "4ecdf37ea662c5480353f93614ed52e402fd3ef4",
