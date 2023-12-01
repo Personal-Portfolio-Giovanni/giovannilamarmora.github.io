@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1701450852239,
+  "timestamp": 1701452106671,
   "index": "https://giovannilamarmoraproject.github.io/Portfolio/index.html",
   "assetGroups": [
     {
@@ -105,6 +105,7 @@
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/social/linkedin.webp",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/wallpaper.jpg",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/wallpaper.webp",
+        "https://giovannilamarmoraproject.github.io/Portfolio/assets/sitemap.xml",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/template/Email-Template.html",
         "https://giovannilamarmoraproject.github.io/Portfolio/assets/template/email-template.json",
         "https://giovannilamarmoraproject.github.io/Portfolio/personal-project.webp",
@@ -192,6 +193,7 @@
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/social/linkedin.webp": "c8f38f403f90548262197856b8f9fbcf46372d17",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/wallpaper.jpg": "c86cef554cf45108b1b120145af39e2b4ff6b2d8",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/img/wallpaper.webp": "851ee441f6155033719afb7bb59dc06a3b090cf9",
+    "https://giovannilamarmoraproject.github.io/Portfolio/assets/sitemap.xml": "f3aa6c2556c1f688bbc7f8041969d67aa6d3d83a",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/template/Email-Template.html": "a732cddc3d04002840cb7f29287a360024930d76",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/template/email-template.json": "4641c132d595651c7ca5fc8850796194203a2c1d",
     "https://giovannilamarmoraproject.github.io/Portfolio/favicon.ico": "55857baa7eef4035ce4a16ee0df9184cc9b3ff6c",
