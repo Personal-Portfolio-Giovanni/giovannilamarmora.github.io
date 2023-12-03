@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1701620023923,
+  "timestamp": 1701635234070,
   "index": "https://giovannilamarmoraproject.github.io/Portfolio/index.html",
   "assetGroups": [
     {
@@ -199,7 +199,7 @@
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/template/Email-Template.html": "a732cddc3d04002840cb7f29287a360024930d76",
     "https://giovannilamarmoraproject.github.io/Portfolio/assets/template/email-template.json": "4641c132d595651c7ca5fc8850796194203a2c1d",
     "https://giovannilamarmoraproject.github.io/Portfolio/favicon.ico": "55857baa7eef4035ce4a16ee0df9184cc9b3ff6c",
-    "https://giovannilamarmoraproject.github.io/Portfolio/index.html": "d39b8945fa72fbb2317f7ea11f12db3e76872665",
+    "https://giovannilamarmoraproject.github.io/Portfolio/index.html": "7b042b55c41c8b9835026d3368fbd18113b8a8d3",
     "https://giovannilamarmoraproject.github.io/Portfolio/main.js": "ff98348b0ab9cc86d1f692c3ba485a43357020fa",
     "https://giovannilamarmoraproject.github.io/Portfolio/manifest.webmanifest": "a280d1d795d61a3ae6b68f8814347c5f60e202fd",
     "https://giovannilamarmoraproject.github.io/Portfolio/personal-project.webp": "b2a4989894b2a8e0599c92792ecc04d2eea9a9b9",
